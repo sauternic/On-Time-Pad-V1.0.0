@@ -21,6 +21,9 @@ Einfach per Drag and Drop Dateien ins Fenster Ziehen.
 Einzige Chance ist wenn der Zufallsgenerator der Schlüsselerstellung nachgeahmt werden kann.  
 Aber das kann nur ein professioneller Kryptograph Beurteilen wie sicher der Zufallsschlüssel ist.  
 
+Siehe auch mein anderes Programm mit Mit RNGCryptoServiceProvider als Zufallsgenerator!
+[Anderes Programm](https://github.com/sauternic/On-Time-Pad-V2.0.0)
+
 
 **Und Achtung beim Entschlüsseln müssen die Namen der Dateien Stimmen, so wie sie erstellt werden.**
 
