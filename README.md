@@ -32,10 +32,14 @@ Siehe auch mein anderes Programm mit Mit RNGCryptoServiceProvider als Zufallsgen
 
 **Eigentlich Selbsterklärend. ;)**
 
-Verschlüsseln:
+## Verschlüsseln:
 ![Verschlüsseln](https://github.com/sauternic/On-Time-Pad-V2.0.0/blob/master/Verschl%C3%BCsseln.gif)
 
-Entschlüsseln:
+
+---
+
+
+## Entschlüsseln:
 ![Entschlüsseln](https://github.com/sauternic/On-Time-Pad-V2.0.0/blob/master/Entschl%C3%BCsseln.gif)
 
 1. Haken links Mitte muss gesetzt sein, so das `On Time Pad:` steht links.
