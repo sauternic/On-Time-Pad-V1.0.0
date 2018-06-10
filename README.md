@@ -1,4 +1,4 @@
-﻿# On-Time-Pad Version 1.0.0
+# One-Time-Pad Version 1.0.0
 
 ## Verschlüsselungs Programm
 
@@ -40,7 +40,7 @@ Siehe auch mein anderes Programm mit Mit RNGCryptoServiceProvider als Zufallsgen
 
 
 ## Entschlüsseln:
-![Entschlüsseln](https://github.com/sauternic/On-Time-Pad-V2.0.0/blob/master/Entschl%C3%BCsseln.gif)
+![Entschlüsseln](https://github.com/sauternic/One-Time-Pad-V2.0.0/blob/master/Entschl%C3%BCsseln.gif)
 
 1. Haken links Mitte muss gesetzt sein, so das `On Time Pad:` steht links.
 2. Nur mit Drag and Drop die Datei(en) ins Fenster ziehen bis es Gelb wird dann loslassen
